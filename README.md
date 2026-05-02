@@ -1,15 +1,7 @@
 
 # Settle
 
-A comprehensive platform for managing and resolving disputes efficiently.
-
-## Features
-
-- **Dispute Resolution**: Streamlined conflict management workflows
-- **Documentation**: Centralized filing and tracking system
-- **Communication Tools**: Built-in messaging for all parties
-- **Analytics Dashboard**: Monitor resolution metrics and timelines
-- **Integration Support**: Connect with existing systems
+Settle is a personalized financial integration platform for immigrants that uses AI to customize their experience. The goal is to help users pick up where they left off in their home country and understand the American financial system and their place in it by starting off from what they know.
 
 ## Getting Started
 
